@@ -8,5 +8,6 @@ class add {
         System.out.println("Enter second number:");
         int num2=sc.nextInt();
         System.out.println("Sum:" +(num1+num2));
+        sc.close();
     }
 }
