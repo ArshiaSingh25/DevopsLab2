@@ -1,8 +1,6 @@
-// JUnit Assignment – Division with Exception Handling
-
 import java.util.Scanner;
 
-public class division {
+public class div_modified {
 
     public static void main(String[] args) {
 
@@ -32,6 +30,7 @@ public class division {
         finally {
             sc.close();
             System.out.println("Program execution completed.");
-        }
+             System.out.println("Heloooooo I am here");
+        }git
     }
 }
