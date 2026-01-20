@@ -1,2 +1,2 @@
-# DevlopsLab2
+# DevopsLab2
 Add a program
